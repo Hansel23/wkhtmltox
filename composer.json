@@ -1,0 +1,20 @@
+{
+	"name": "hansel23/wkhtmltox",
+	"description": "Static linked binary linux-generic-amd64 distributions.",
+	"keywords": ["pdf", "wkhtmltopdf", "wkhtmltoimage", "binary", "wkhtmltox"],
+	"license": "LGPL Version 3",
+	"homepage": "http://wkhtmltopdf.org/",
+	"authors": [
+		{
+			"name": "Benjamin Bruska",
+			"email": "benjamin.bruska@gmx.de"
+		}
+	],
+	"minimum-stability": "stable",
+	"bin": [
+		"bin/wkhtmltopdf",
+		"bin/wkhtmltoimage"
+	],
+	"require": {
+	}
+}
